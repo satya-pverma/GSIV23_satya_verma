@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+## Create .env file (check .env-exm)
+
+put your TMDB access token
+
 In the project directory, you can run:
 
 ### `npm start`
