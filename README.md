@@ -1,5 +1,8 @@
 # App is deployed on firebase and netlify
 firebase link - https://movie-explorer-33377.web.app
+
+#
+
 netlify link - https://64dcc6a04c7713021b37e29a--nimble-narwhal-beb42f.netlify.app/
 
 # Getting Started with Create React App
